@@ -35,4 +35,4 @@ function judgementOrder(arr1 , arr2) {
   
 }
 
-console.log(judgementOrder([6,5,4,3,2,1] , [4,5,3,2,1,6]));
+// console.log(judgementOrder([6,5,4,3,2,1] , [4,5,3,2,1,6]));

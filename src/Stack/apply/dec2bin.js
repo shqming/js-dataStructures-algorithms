@@ -20,4 +20,4 @@ function dec2bin(dec) {
   return binaryString;
 }
 
-console.log(dec2bin(100));
+// console.log(dec2bin(100));
